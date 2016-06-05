@@ -1,0 +1,6 @@
+1 - FileNotFound
+2 - NoPriceInInputFile
+3 - OptionSetDataMissing
+4 - OptionDataMissing
+5 - InvalidCarName
+6 - IndexOutOfBounds
